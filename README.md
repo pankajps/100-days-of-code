@@ -7,6 +7,13 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+## Leasson lernt by fellow coders
+
+* Lesson one: even on days when I didn’t feel like coding, I often happily worked for hours once I forced myself to get started.
+* Lesson two: I learned that I was able to commit to something for a period of time — not because I was paying a lot of money for it, or because I was required — but because I set a goal that I wanted to achieve.
+* Lesson three: consistent practice is the best kind of practice.
+* Lesson four: keeping a journal helped me stay motivated.
+
 ## Translations
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md)
 
